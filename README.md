@@ -1,1 +1,1 @@
-# CoreJava
+# COP Assignments
